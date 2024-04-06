@@ -1,0 +1,697 @@
+----------------------------
+Total games so far 0
+Won 6 / 10 games (0.600)
+New reference is ./training_data/data7/agent_00000010.hdf5
+New temperature is 0.990000
+Total games so far 10
+Won 6 / 10 games (0.600)
+New reference is ./training_data/data7/agent_00000020.hdf5
+New temperature is 0.980100
+Total games so far 20
+Won 5 / 10 games (0.500)
+Total games so far 30
+Won 3 / 10 games (0.300)
+Total games so far 40
+Won 4 / 10 games (0.400)
+Total games so far 50
+Won 2 / 10 games (0.200)
+Total games so far 60
+Won 6 / 10 games (0.600)
+New reference is ./training_data/data7/agent_00000070.hdf5
+New temperature is 0.970299
+Total games so far 70
+Won 4 / 10 games (0.400)
+Total games so far 80
+Won 7 / 10 games (0.700)
+New reference is ./training_data/data7/agent_00000090.hdf5
+New temperature is 0.960596
+Total games so far 90
+Won 4 / 10 games (0.400)
+Total games so far 100
+Won 6 / 10 games (0.600)
+New reference is ./training_data/data7/agent_00000110.hdf5
+New temperature is 0.950990
+Total games so far 110
+Won 4 / 10 games (0.400)
+Total games so far 120
+Won 4 / 10 games (0.400)
+Total games so far 130
+Won 4 / 10 games (0.400)
+Total games so far 140
+Won 5 / 10 games (0.500)
+Total games so far 150
+Won 6 / 10 games (0.600)
+New reference is ./training_data/data7/agent_00000160.hdf5
+New temperature is 0.941480
+Total games so far 160
+Won 4 / 10 games (0.400)
+Total games so far 170
+Won 6 / 10 games (0.600)
+New reference is ./training_data/data7/agent_00000180.hdf5
+New temperature is 0.932065
+Total games so far 180
+Won 5 / 10 games (0.500)
+Total games so far 190
+Won 4 / 10 games (0.400)
+Total games so far 200
+Won 5 / 10 games (0.500)
+Total games so far 210
+Won 5 / 10 games (0.500)
+Total games so far 220
+Won 4 / 10 games (0.400)
+Total games so far 230
+Won 4 / 10 games (0.400)
+Total games so far 240
+Won 6 / 10 games (0.600)
+New reference is ./training_data/data7/agent_00000250.hdf5
+New temperature is 0.922745
+Total games so far 250
+Won 5 / 10 games (0.500)
+Total games so far 260
+Won 5 / 10 games (0.500)
+Total games so far 270
+Won 8 / 10 games (0.800)
+New reference is ./training_data/data7/agent_00000280.hdf5
+New temperature is 0.913517
+Total games so far 280
+Won 5 / 10 games (0.500)
+Total games so far 290
+Won 7 / 10 games (0.700)
+New reference is ./training_data/data7/agent_00000300.hdf5
+New temperature is 0.904382
+Total games so far 300
+Won 5 / 10 games (0.500)
+Total games so far 310
+Won 4 / 10 games (0.400)
+Total games so far 320
+Won 6 / 10 games (0.600)
+New reference is ./training_data/data7/agent_00000330.hdf5
+New temperature is 0.895338
+Total games so far 330
+Won 7 / 10 games (0.700)
+New reference is ./training_data/data7/agent_00000340.hdf5
+New temperature is 0.886385
+Total games so far 340
+Won 7 / 10 games (0.700)
+New reference is ./training_data/data7/agent_00000350.hdf5
+New temperature is 0.877521
+Total games so far 350
+Won 7 / 10 games (0.700)
+New reference is ./training_data/data7/agent_00000360.hdf5
+New temperature is 0.868746
+Total games so far 360
+Won 8 / 10 games (0.800)
+New reference is ./training_data/data7/agent_00000370.hdf5
+New temperature is 0.860058
+Total games so far 370
+Won 5 / 10 games (0.500)
+Total games so far 380
+Won 5 / 10 games (0.500)
+Total games so far 390
+Won 5 / 10 games (0.500)
+Total games so far 400
+Won 6 / 10 games (0.600)
+New reference is ./training_data/data7/agent_00000410.hdf5
+New temperature is 0.851458
+Total games so far 410
+Won 5 / 10 games (0.500)
+Total games so far 420
+Won 5 / 10 games (0.500)
+Total games so far 430
+Won 6 / 10 games (0.600)
+New reference is ./training_data/data7/agent_00000440.hdf5
+New temperature is 0.842943
+Total games so far 440
+Won 5 / 10 games (0.500)
+Total games so far 450
+Won 6 / 10 games (0.600)
+New reference is ./training_data/data7/agent_00000460.hdf5
+New temperature is 0.834514
+Total games so far 460
+Won 7 / 10 games (0.700)
+New reference is ./training_data/data7/agent_00000470.hdf5
+New temperature is 0.826169
+Total games so far 470
+Won 6 / 10 games (0.600)
+New reference is ./training_data/data7/agent_00000480.hdf5
+New temperature is 0.817907
+Total games so far 480
+Won 5 / 10 games (0.500)
+Total games so far 490
+Won 4 / 10 games (0.400)
+Total games so far 500
+Won 6 / 10 games (0.600)
+New reference is ./training_data/data7/agent_00000510.hdf5
+New temperature is 0.809728
+Total games so far 510
+Won 4 / 10 games (0.400)
+Total games so far 520
+Won 7 / 10 games (0.700)
+New reference is ./training_data/data7/agent_00000530.hdf5
+New temperature is 0.801631
+Total games so far 530
+Won 7 / 10 games (0.700)
+New reference is ./training_data/data7/agent_00000540.hdf5
+New temperature is 0.793614
+Total games so far 540
+Won 5 / 10 games (0.500)
+Total games so far 550
+Won 4 / 10 games (0.400)
+Total games so far 560
+Won 3 / 10 games (0.300)
+Total games so far 570
+Won 4 / 10 games (0.400)
+Total games so far 580
+Won 4 / 10 games (0.400)
+Total games so far 590
+Won 5 / 10 games (0.500)
+Total games so far 600
+Won 5 / 10 games (0.500)
+Total games so far 610
+Won 7 / 10 games (0.700)
+New reference is ./training_data/data7/agent_00000620.hdf5
+New temperature is 0.785678
+Total games so far 620
+Won 5 / 10 games (0.500)
+Total games so far 630
+Won 5 / 10 games (0.500)
+Total games so far 640
+Won 5 / 10 games (0.500)
+Total games so far 650
+Won 5 / 10 games (0.500)
+Total games so far 660
+Won 3 / 10 games (0.300)
+Total games so far 670
+Won 6 / 10 games (0.600)
+New reference is ./training_data/data7/agent_00000680.hdf5
+New temperature is 0.777821
+Total games so far 680
+Won 9 / 10 games (0.900)
+New reference is ./training_data/data7/agent_00000690.hdf5
+New temperature is 0.770043
+Total games so far 690
+Won 5 / 10 games (0.500)
+Total games so far 700
+Won 5 / 10 games (0.500)
+Total games so far 710
+Won 5 / 10 games (0.500)
+Total games so far 720
+Won 7 / 10 games (0.700)
+New reference is ./training_data/data7/agent_00000730.hdf5
+New temperature is 0.762343
+Total games so far 730
+Won 3 / 10 games (0.300)
+Total games so far 740
+Won 3 / 10 games (0.300)
+Total games so far 750
+Won 6 / 10 games (0.600)
+New reference is ./training_data/data7/agent_00000760.hdf5
+New temperature is 0.754719
+Total games so far 760
+Won 4 / 10 games (0.400)
+Total games so far 770
+Won 6 / 10 games (0.600)
+New reference is ./training_data/data7/agent_00000780.hdf5
+New temperature is 0.747172
+Total games so far 780
+Won 5 / 10 games (0.500)
+Total games so far 790
+Won 6 / 10 games (0.600)
+New reference is ./training_data/data7/agent_00000800.hdf5
+New temperature is 0.739700
+Total games so far 800
+Won 4 / 10 games (0.400)
+Total games so far 810
+Won 4 / 10 games (0.400)
+Total games so far 820
+Won 5 / 10 games (0.500)
+Total games so far 830
+Won 4 / 10 games (0.400)
+Total games so far 840
+Won 4 / 10 games (0.400)
+Total games so far 850
+----------------------------
+Total games so far 0
+----------------------------
+Total games so far 0
+----------------------------
+Total games so far 0
+----------------------------
+Total games so far 0
+Won 14 / 20 games (0.700)
+New reference is ./training_data/data7/agent_00000020.hdf5
+New temperature is 0.990000
+Total games so far 20
+Won 8 / 20 games (0.400)
+Total games so far 40
+Won 9 / 20 games (0.450)
+----------------------------
+Total games so far 0
+Won 10 / 20 games (0.500)
+Total games so far 20
+Won 10 / 20 games (0.500)
+Total games so far 40
+Won 14 / 20 games (0.700)
+New reference is ./training_data/data7/agent_00000060.hdf5
+New temperature is 0.990000
+Total games so far 60
+Won 11 / 20 games (0.550)
+Total games so far 80
+Won 9 / 20 games (0.450)
+Total games so far 100
+Won 12 / 20 games (0.600)
+New reference is ./training_data/data7/agent_00000120.hdf5
+New temperature is 0.980100
+Total games so far 120
+Won 11 / 20 games (0.550)
+Total games so far 140
+Won 12 / 20 games (0.600)
+New reference is ./training_data/data7/agent_00000160.hdf5
+New temperature is 0.970299
+----------------------------
+Total games so far 0
+----------------------------
+Total games so far 0
+----------------------------
+Total games so far 0
+Won 12 / 20 games (0.600)
+New reference is ./training_data/data7/agent_00000020.hdf5
+New temperature is 0.990000
+Total games so far 20
+Won 8 / 20 games (0.400)
+----------------------------
+Total games so far 0
+----------------------------
+Total games so far 0
+----------------------------
+Total games so far 0
+----------------------------
+Total games so far 0
+Won 6 / 10 games (0.600)
+New reference is ./training_data/data7/agent_00000010.hdf5
+New temperature is 0.990000
+Total games so far 10
+Won 3 / 10 games (0.300)
+----------------------------
+Total games so far 0
+----------------------------
+Total games so far 0
+----------------------------
+Total games so far 0
+Won 6 / 10 games (0.600)
+New reference is ./training_data/data7/agent_00000010.hdf5
+New temperature is 0.990000
+Total games so far 10
+Won 4 / 10 games (0.400)
+Total games so far 20
+Won 2 / 10 games (0.200)
+----------------------------
+Total games so far 0
+Won 11 / 20 games (0.550)
+Total games so far 20
+Won 9 / 20 games (0.450)
+Total games so far 40
+Won 10 / 20 games (0.500)
+Total games so far 60
+Won 8 / 20 games (0.400)
+Total games so far 80
+Won 8 / 20 games (0.400)
+Total games so far 100
+Won 10 / 20 games (0.500)
+Total games so far 120
+Won 10 / 20 games (0.500)
+Total games so far 140
+Won 10 / 20 games (0.500)
+Total games so far 160
+Won 10 / 20 games (0.500)
+Total games so far 180
+Won 10 / 20 games (0.500)
+----------------------------
+Total games so far 0
+Won 8 / 20 games (0.400)
+Total games so far 20
+Won 8 / 20 games (0.400)
+Total games so far 40
+Won 11 / 20 games (0.550)
+Total games so far 60
+Won 12 / 20 games (0.600)
+New reference is ./training_data/data7/agent_00000080.hdf5
+New temperature is 0.990000
+Total games so far 80
+Won 10 / 20 games (0.500)
+Total games so far 100
+Won 12 / 20 games (0.600)
+New reference is ./training_data/data7/agent_00000120.hdf5
+New temperature is 0.980100
+Total games so far 120
+Won 12 / 20 games (0.600)
+New reference is ./training_data/data7/agent_00000140.hdf5
+New temperature is 0.970299
+----------------------------
+Total games so far 0
+Won 9 / 20 games (0.450)
+Total games so far 20
+Won 7 / 20 games (0.350)
+Total games so far 40
+Won 6 / 20 games (0.300)
+Total games so far 60
+Won 5 / 20 games (0.250)
+Total games so far 80
+Won 10 / 20 games (0.500)
+Total games so far 100
+Won 11 / 20 games (0.550)
+Total games so far 120
+Won 6 / 20 games (0.300)
+Total games so far 140
+Won 5 / 20 games (0.250)
+Total games so far 160
+Won 7 / 20 games (0.350)
+Total games so far 180
+Won 11 / 20 games (0.550)
+Total games so far 200
+Won 8 / 20 games (0.400)
+Total games so far 220
+Won 7 / 20 games (0.350)
+Total games so far 240
+Won 8 / 20 games (0.400)
+Total games so far 260
+Won 8 / 20 games (0.400)
+Total games so far 280
+Won 10 / 20 games (0.500)
+Total games so far 300
+Won 6 / 20 games (0.300)
+Total games so far 320
+Won 5 / 20 games (0.250)
+Total games so far 340
+Won 4 / 20 games (0.200)
+Total games so far 360
+Won 5 / 20 games (0.250)
+Total games so far 380
+Won 9 / 20 games (0.450)
+Total games so far 400
+Won 9 / 20 games (0.450)
+Total games so far 420
+Won 8 / 20 games (0.400)
+Total games so far 440
+Won 7 / 20 games (0.350)
+Total games so far 460
+Won 7 / 20 games (0.350)
+Total games so far 480
+Won 8 / 20 games (0.400)
+Total games so far 500
+Won 9 / 20 games (0.450)
+Total games so far 520
+Won 8 / 20 games (0.400)
+Total games so far 540
+Won 11 / 20 games (0.550)
+Total games so far 560
+Won 10 / 20 games (0.500)
+----------------------------
+Total games so far 0
+----------------------------
+Total games so far 0
+----------------------------
+Total games so far 0
+Won 10 / 20 games (0.500)
+----------------------------
+Total games so far 0
+----------------------------
+Total games so far 0
+----------------------------
+Total games so far 0
+----------------------------
+Total games so far 0
+----------------------------
+Total games so far 0
+Won 9 / 20 games (0.450)
+Total games so far 20
+Won 9 / 20 games (0.450)
+Total games so far 40
+Won 8 / 20 games (0.400)
+----------------------------
+Total games so far 0
+----------------------------
+Total games so far 0
+----------------------------
+Total games so far 0
+Won 6 / 10 games (0.600)
+New reference is ./training_data/data2/agent_00000010.pt
+New temperature is 0.841500
+----------------------------
+Total games so far 0
+Won 9 / 30 games (0.300)
+Total games so far 30
+Won 14 / 30 games (0.467)
+Total games so far 60
+Won 10 / 30 games (0.333)
+Total games so far 90
+Won 17 / 30 games (0.567)
+Total games so far 120
+Won 13 / 30 games (0.433)
+Total games so far 150
+Won 10 / 30 games (0.333)
+Total games so far 180
+Won 11 / 30 games (0.367)
+Total games so far 210
+Won 12 / 30 games (0.400)
+Total games so far 240
+Won 7 / 30 games (0.233)
+Total games so far 270
+Won 10 / 30 games (0.333)
+Total games so far 300
+Won 13 / 30 games (0.433)
+Total games so far 330
+Won 13 / 30 games (0.433)
+Total games so far 360
+Won 10 / 30 games (0.333)
+Total games so far 390
+Won 5 / 30 games (0.167)
+Total games so far 420
+Won 11 / 30 games (0.367)
+Total games so far 450
+Won 12 / 30 games (0.400)
+Total games so far 480
+Won 10 / 30 games (0.333)
+Total games so far 510
+Won 10 / 30 games (0.333)
+Total games so far 540
+Won 12 / 30 games (0.400)
+Total games so far 570
+Won 12 / 30 games (0.400)
+Total games so far 600
+Won 10 / 30 games (0.333)
+Total games so far 630
+Won 10 / 30 games (0.333)
+Total games so far 660
+Won 15 / 30 games (0.500)
+Total games so far 690
+Won 10 / 30 games (0.333)
+Total games so far 720
+Won 9 / 30 games (0.300)
+Total games so far 750
+Won 13 / 30 games (0.433)
+Total games so far 780
+Won 11 / 30 games (0.367)
+Total games so far 810
+Won 7 / 30 games (0.233)
+Total games so far 840
+Won 12 / 30 games (0.400)
+Total games so far 870
+Won 11 / 30 games (0.367)
+----------------------------
+Total games so far 0
+Won 13 / 30 games (0.433)
+Total games so far 30
+Won 12 / 30 games (0.400)
+Total games so far 60
+Won 8 / 30 games (0.267)
+Total games so far 90
+Won 11 / 30 games (0.367)
+Total games so far 120
+Won 12 / 30 games (0.400)
+Total games so far 150
+Won 15 / 30 games (0.500)
+Total games so far 180
+Won 9 / 30 games (0.300)
+Total games so far 210
+Won 15 / 30 games (0.500)
+Total games so far 240
+Won 17 / 30 games (0.567)
+Total games so far 270
+Won 13 / 30 games (0.433)
+Total games so far 300
+Won 15 / 30 games (0.500)
+Total games so far 330
+Won 6 / 30 games (0.200)
+Total games so far 360
+Won 14 / 30 games (0.467)
+Total games so far 390
+Won 10 / 30 games (0.333)
+Total games so far 420
+Won 12 / 30 games (0.400)
+Total games so far 450
+Won 13 / 30 games (0.433)
+Total games so far 480
+Won 13 / 30 games (0.433)
+Total games so far 510
+Won 11 / 30 games (0.367)
+Total games so far 540
+Won 10 / 30 games (0.333)
+Total games so far 570
+Won 13 / 30 games (0.433)
+Total games so far 600
+Won 10 / 30 games (0.333)
+Total games so far 630
+Won 12 / 30 games (0.400)
+Total games so far 660
+Won 5 / 30 games (0.167)
+Total games so far 690
+Won 14 / 30 games (0.467)
+Total games so far 720
+Won 13 / 30 games (0.433)
+Total games so far 750
+Won 13 / 30 games (0.433)
+Total games so far 780
+Won 11 / 30 games (0.367)
+Total games so far 810
+Won 13 / 30 games (0.433)
+Total games so far 840
+Won 15 / 30 games (0.500)
+Total games so far 870
+Won 11 / 30 games (0.367)
+Total games so far 900
+Won 14 / 30 games (0.467)
+Total games so far 930
+Won 9 / 30 games (0.300)
+Total games so far 960
+Won 13 / 30 games (0.433)
+Total games so far 990
+Won 12 / 30 games (0.400)
+Total games so far 1020
+Won 9 / 30 games (0.300)
+Total games so far 1050
+Won 12 / 30 games (0.400)
+Total games so far 1080
+Won 12 / 30 games (0.400)
+Total games so far 1110
+Total games so far 1110
+Total games so far 1110
+Won 19 / 40 games (0.475)
+Total games so far 1150
+Won 18 / 40 games (0.450)
+Total games so far 1190
+Won 21 / 40 games (0.525)
+Total games so far 1230
+Won 21 / 40 games (0.525)
+Total games so far 1270
+Won 24 / 40 games (0.600)
+New reference is ./training_data/data2\agent_00000200.pt
+New temperature is 0.841500
+Total games so far 1310
+Won 23 / 40 games (0.575)
+New reference is ./training_data/data2\agent_00000240.pt
+New temperature is 0.833085
+Total games so far 1350
+Won 21 / 40 games (0.525)
+Total games so far 1390
+Won 13 / 40 games (0.325)
+Total games so far 1430
+Won 20 / 40 games (0.500)
+Total games so far 1470
+Won 18 / 40 games (0.450)
+Total games so far 1510
+Won 22 / 40 games (0.550)
+New reference is ./training_data/data2\agent_00000440.pt
+New temperature is 0.824754
+Total games so far 1550
+Won 15 / 40 games (0.375)
+Total games so far 1590
+Won 20 / 40 games (0.500)
+Total games so far 1630
+Won 22 / 40 games (0.550)
+New reference is ./training_data/data2\agent_00000560.pt
+New temperature is 0.816507
+Total games so far 1670
+Won 25 / 40 games (0.625)
+New reference is ./training_data/data2\agent_00000600.pt
+New temperature is 0.808342
+Total games so far 1710
+Won 20 / 40 games (0.500)
+Total games so far 1750
+Won 15 / 40 games (0.375)
+Total games so far 1790
+Won 22 / 40 games (0.550)
+New reference is ./training_data/data2\agent_00000720.pt
+New temperature is 0.800258
+Total games so far 1830
+Won 15 / 40 games (0.375)
+Total games so far 1870
+Won 17 / 40 games (0.425)
+Total games so far 1910
+Won 20 / 40 games (0.500)
+Total games so far 1950
+Won 22 / 40 games (0.550)
+New reference is ./training_data/data2\agent_00000880.pt
+New temperature is 0.792256
+Total games so far 1990
+Won 17 / 40 games (0.425)
+Total games so far 2030
+Won 19 / 40 games (0.475)
+Total games so far 2070
+Won 18 / 40 games (0.450)
+Total games so far 2110
+Won 16 / 40 games (0.400)
+Total games so far 2150
+Won 18 / 40 games (0.450)
+Total games so far 2190
+Won 19 / 40 games (0.475)
+Total games so far 2230
+Won 21 / 40 games (0.525)
+Total games so far 2270
+Won 22 / 40 games (0.550)
+New reference is ./training_data/data2\agent_00001200.pt
+New temperature is 0.784333
+Total games so far 2310
+Won 19 / 40 games (0.475)
+Total games so far 2350
+Won 13 / 40 games (0.325)
+Total games so far 2390
+Won 19 / 40 games (0.475)
+Total games so far 2430
+Won 24 / 40 games (0.600)
+New reference is ./training_data/data2\agent_00001360.pt
+New temperature is 0.776490
+Total games so far 2470
+Won 17 / 40 games (0.425)
+Total games so far 2510
+Won 17 / 40 games (0.425)
+Total games so far 2550
+Won 24 / 40 games (0.600)
+New reference is ./training_data/data2\agent_00001480.pt
+New temperature is 0.768725
+Total games so far 2590
+Won 19 / 40 games (0.475)
+Total games so far 2630
+Total games so far 2630
+Won 22 / 40 games (0.550)
+Total games so far 2670
+Won 20 / 40 games (0.500)
+Total games so far 2710
+Won 19 / 40 games (0.475)
+Total games so far 2750
+Won 27 / 40 games (0.675)
+New reference is ./training_data/data2\agent_00002790.pt
+New temperature is 0.841500
+Total games so far 2790
+Won 16 / 40 games (0.400)
+Total games so far 2830
+Won 18 / 40 games (0.450)
+Total games so far 2870
+Total games so far 2630
+Total games so far 2630
+Total games so far 2630
+Total games so far 2630
+Total games so far 2630
+Total games so far 2630
+Total games so far 2630
+Total games so far 2630
